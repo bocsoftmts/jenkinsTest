@@ -1,2 +1,2 @@
 echo "jenkins scripts run sucess" > result.txt
-黄杨yyds
+echo "黄杨yyds"
